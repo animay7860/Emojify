@@ -10,7 +10,7 @@ Avataar/Cartoon are basically graphical representation of emotion. my software w
 Facial expression recognition plays a crucial role in the area of human-machine interaction. Automatic facial expression recognition system has many applications in various streams including medicine, E-Learning, monitoring, entertainment, law and marketing.
 ## Tech Stack Used
 ●	CNN: A Deep learning model to Recognize Facial Emotion.
-
+●	OpenCV: To recognize faces, identify objects, classify human actions in videos, track camera movements etc.
 ●	Tensorflow 2:0: This is the latest version of the deep learning framework developed and maintained by Google and used for emotion classification.
 
 ●	Haar Cascade: haarcascade_frontalface_default.xml  is used for face detection.
