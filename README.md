@@ -1,5 +1,5 @@
 # Emojify
-## A Deep Learning Model to Create a Avatar/Cartoon of your Realtime face Emotion.
+## A Deep Learning Model to Create an Avatar/Cartoon of your Real-time facial Emotion.
 My Software when run, is capable of detecting 7 of the many human emotions which are visible on their faces. 
 The output of our software will include two types of data as an output:-
 1.	Name of the emotion detected.
